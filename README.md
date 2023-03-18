@@ -1,2 +1,2 @@
 # catorioEbnack
-Projeto do curso de TI da EBNAC
+Projeto do curso de TI da EBAC
